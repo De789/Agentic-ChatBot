@@ -1,1 +1,1 @@
-End to end Project in ChatBot AI
+End to end Project in ChatBots AI
